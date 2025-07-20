@@ -20,7 +20,7 @@ export default function HomePage() {
       
       <footer className="mt-12 text-center text-sm text-muted-foreground">
         <p>&copy; {new Date().getFullYear()} CHISPART. All rights reserved.</p>
-        <p>Powered by Generative AI</p>
+        <p>Powered by Generative AI & Firebase</p>
       </footer>
     </div>
   );
