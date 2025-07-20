@@ -1,0 +1,8 @@
+{
+    "name": "chispart/logo-generator",
+    "description": "A web application for generating logos using artificial intelligence.",
+    "type": "project",
+    "require": {
+        "openai-php/client": "^0.10.0"
+    }
+}
